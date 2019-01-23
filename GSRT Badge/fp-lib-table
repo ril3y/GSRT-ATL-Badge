@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name ESP32-WROVER-I)(type Legacy)(uri ${PROJECTLIB}/ESP32-WROVER-I.mod)(options "")(descr ""))
+  (lib (name Libs)(type KiCad)(uri "D:/KiCad Projects/Libs")(options "")(descr ""))
+  (lib (name gsg-kicad-lib-master)(type KiCad)(uri "D:/KiCad Projects/Libs/gsg-kicad-lib-master")(options "")(descr ""))
+  (lib (name Libraries)(type KiCad)(uri ${KIPRJMOD}/Libraries)(options "")(descr ""))
+  (lib (name GSRTBadge)(type KiCad)(uri ${PROJECTLIB}/GSRTBadge)(options "")(descr ""))
+  (lib (name PCB_LIBs)(type KiCad)(uri D:/GitHub/PCB_LIBs)(options "")(descr ""))
+)

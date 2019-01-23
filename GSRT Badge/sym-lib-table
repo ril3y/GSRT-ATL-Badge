@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name DMG3415U-7)(type Legacy)(uri ${KIPRJMOD}/Libraries/DMG3415U-7.lib)(options "")(descr ""))
+  (lib (name bat48zfilm)(type Legacy)(uri "D:/KiCad Projects/GSRT Badge/GSRT Badge/Libraries/bat48zfilm.lib")(options "")(descr ""))
+  (lib (name ESP32-WROVER-I)(type Legacy)(uri ${PROJECTLIB}/ESP32-WROVER-I.lib)(options "")(descr ""))
+  (lib (name gsg-symbols)(type Legacy)(uri "D:/KiCad Projects/Libs/gsg-kicad-lib-master/gsg-symbols.lib")(options "")(descr ""))
+  (lib (name BadgeLib)(type Legacy)(uri "D:/KiCad Projects/GSRT Badge/GSRT Badge/BadgeLib.lib")(options "")(descr ""))
+  (lib (name Badge)(type Legacy)(uri "D:/KiCad Projects/GSRT Badge/GSRT Badge/Badge.lib")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name bat48zfilm)(type Legacy)(uri ${PROJECTLIB}/bat48zfilm.lib)(options "")(descr ""))
+  (lib (name gsg-symbols)(type Legacy)(uri "D:/KiCad Projects/Libs/gsg-kicad-lib-master/gsg-symbols.lib")(options "")(descr ""))
+)
